@@ -1,2 +1,2 @@
 # GitHub-Practice-Project
-Practice Assignment
+Assignment Practice
