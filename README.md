@@ -1,2 +1,2 @@
 # GitHub-Practice-Project
-Assignment Practice
+This is the student profile section.
